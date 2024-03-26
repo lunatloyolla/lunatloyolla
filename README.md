@@ -2,7 +2,7 @@
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunatloyolla&theme=tokyonight)
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=lunatloyolla&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=lunatloyolla&theme=tokyonight)](https://git.io/streak-stats)
  ## Connect with me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/luna-trindade-5556332ab/)
 
