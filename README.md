@@ -15,6 +15,8 @@
  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
  ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git)
  ![mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+ ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
  </div>
 
