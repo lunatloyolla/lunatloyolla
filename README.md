@@ -9,13 +9,13 @@
 
 
  ## Hard skills
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
  ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
  ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git)
  ![mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/SwiftUI-2.0+-9cf)
+
  </div>
 
 
